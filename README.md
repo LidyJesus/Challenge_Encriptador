@@ -1,7 +1,7 @@
 💻 Challenge ONE ORACLE
 
 🌐 Link do projeto
-Acesse o GitPages
+file:///E:/challenge%20teste/index.html
 📝 Descrição
 Este projeto é o primeiro desafio da trilha ONE-Oracle Next Education.
 
